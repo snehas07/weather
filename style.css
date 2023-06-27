@@ -1,0 +1,18 @@
+
+body{ 
+    background: url("https://img.freepik.com/free-photo/beautiful-landscape-pattaya-city-chonburi_74190-9401.jpg?w=900&t=st=1687877740~exp=1687878340~hmac=a60e0214c7c3395a5daacbd076ebe8bc1910e39cd2e860a2c9845b536cedcec3") !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+.btn{ 
+    border: 1px solid #fff !important;
+    color: #fff !important;
+}
+.table{ 
+    height: 220px !important;
+    margin-bottom: 0% !important;
+}
+.navbar-brand{ 
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 600;
+}
